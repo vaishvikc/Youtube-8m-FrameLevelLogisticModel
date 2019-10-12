@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/yt8m/models/frame/sample_model/model.ckpt-7891"
+all_model_checkpoint_paths: "/root/yt8m/models/frame/sample_model/model.ckpt-7891"
